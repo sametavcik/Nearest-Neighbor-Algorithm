@@ -1,0 +1,28 @@
+C:\Users\Samet\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\netcoreapp3.1\ConsoleApp18.exe
+C:\Users\Samet\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\netcoreapp3.1\ConsoleApp18.deps.json
+C:\Users\Samet\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\netcoreapp3.1\ConsoleApp18.runtimeconfig.json
+C:\Users\Samet\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\netcoreapp3.1\ConsoleApp18.runtimeconfig.dev.json
+C:\Users\Samet\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\netcoreapp3.1\ConsoleApp18.dll
+C:\Users\Samet\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\netcoreapp3.1\ConsoleApp18.pdb
+C:\Users\Samet\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samet\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.AssemblyInfoInputs.cache
+C:\Users\Samet\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.AssemblyInfo.cs
+C:\Users\Samet\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.csproj.CoreCompileInputs.cache
+C:\Users\Samet\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.dll
+C:\Users\Samet\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.pdb
+C:\Users\Samet\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.genruntimeconfig.cache
+C:\Users\Samet\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.csproj.AssemblyReference.cache
+C:\Users\Samet\Desktop\Yeni klasör\proje1\ConsoleApp18\bin\Debug\netcoreapp3.1\ConsoleApp18.exe
+C:\Users\Samet\Desktop\Yeni klasör\proje1\ConsoleApp18\bin\Debug\netcoreapp3.1\ConsoleApp18.deps.json
+C:\Users\Samet\Desktop\Yeni klasör\proje1\ConsoleApp18\bin\Debug\netcoreapp3.1\ConsoleApp18.runtimeconfig.json
+C:\Users\Samet\Desktop\Yeni klasör\proje1\ConsoleApp18\bin\Debug\netcoreapp3.1\ConsoleApp18.runtimeconfig.dev.json
+C:\Users\Samet\Desktop\Yeni klasör\proje1\ConsoleApp18\bin\Debug\netcoreapp3.1\ConsoleApp18.dll
+C:\Users\Samet\Desktop\Yeni klasör\proje1\ConsoleApp18\bin\Debug\netcoreapp3.1\ConsoleApp18.pdb
+C:\Users\Samet\Desktop\Yeni klasör\proje1\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.csproj.AssemblyReference.cache
+C:\Users\Samet\Desktop\Yeni klasör\proje1\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samet\Desktop\Yeni klasör\proje1\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.AssemblyInfoInputs.cache
+C:\Users\Samet\Desktop\Yeni klasör\proje1\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.AssemblyInfo.cs
+C:\Users\Samet\Desktop\Yeni klasör\proje1\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.csproj.CoreCompileInputs.cache
+C:\Users\Samet\Desktop\Yeni klasör\proje1\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.dll
+C:\Users\Samet\Desktop\Yeni klasör\proje1\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.pdb
+C:\Users\Samet\Desktop\Yeni klasör\proje1\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.genruntimeconfig.cache
